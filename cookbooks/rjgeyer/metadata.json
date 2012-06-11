@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "rs_utils": ">= 0.0.0"
   },
   "name": "rjgeyer",
   "maintainer_email": "ryan.geyer@rightscale.com",
