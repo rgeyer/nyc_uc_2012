@@ -17,6 +17,51 @@
       ],
       "display_name": "First Name",
       "description": "Sufficiently described"
+    },
+    "about_me/favorite/drink": {
+      "required": "optional",
+      "calculated": false,
+      "category": "Favorites",
+      "choice": [
+
+      ],
+      "default": "Jameson",
+      "type": "string",
+      "recipes": [
+        "rjgeyer::default"
+      ],
+      "display_name": "Favorite drink",
+      "description": "Your favorite drink"
+    },
+    "about_me/favorite/food": {
+      "required": "optional",
+      "calculated": false,
+      "category": "Favorites",
+      "choice": [
+
+      ],
+      "default": "curry",
+      "type": "string",
+      "recipes": [
+        "rjgeyer::default"
+      ],
+      "display_name": "Favorite food",
+      "description": "Your favorite food"
+    },
+    "about_me/favorite/hobby": {
+      "required": "optional",
+      "calculated": false,
+      "category": "Favorites",
+      "choice": [
+
+      ],
+      "default": "TV",
+      "type": "string",
+      "recipes": [
+        "rjgeyer::default"
+      ],
+      "display_name": "Favorite hobby",
+      "description": "Your Favorite hobby"
     }
   },
   "license": "All rights reserved",
