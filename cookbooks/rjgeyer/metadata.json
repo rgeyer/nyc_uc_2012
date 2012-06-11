@@ -5,6 +5,19 @@
   "name": "rjgeyer",
   "maintainer_email": "ryan.geyer@rightscale.com",
   "attributes": {
+    "about_me/first_name": {
+      "required": "required",
+      "calculated": false,
+      "choice": [
+
+      ],
+      "type": "string",
+      "recipes": [
+        "rjgeyer::default"
+      ],
+      "display_name": "First Name",
+      "description": "Sufficiently described"
+    }
   },
   "license": "All rights reserved",
   "suggestions": {
