@@ -75,6 +75,7 @@
   "recommendations": {
   },
   "recipes": {
+    "rjgeyer::new_recipe": "",
     "rjgeyer::default": "Prints Hello World! to the logs"
   },
   "groupings": {

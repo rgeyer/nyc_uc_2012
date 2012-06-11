@@ -8,6 +8,7 @@ version          "0.0.1"
 depends "rs_utils"
 
 recipe "rjgeyer::default","Prints Hello World! to the logs"
+recipe "rjgeyer::new_recipe",""
 
 attribute "about_me/first_name",
   :required => "required",
