@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+  },
+  "name": "rjgeyer",
+  "maintainer_email": "ryan.geyer@rightscale.com",
+  "attributes": {
+  },
+  "license": "All rights reserved",
+  "suggestions": {
+  },
+  "platforms": {
+  },
+  "maintainer": "Ryan J. Geyer",
+  "long_description": "Description\n===========\n\nRequirements\n============\n\nAttributes\n==========\n\nUsage\n=====\n\n",
+  "version": "0.0.1",
+  "recommendations": {
+  },
+  "recipes": {
+    "rjgeyer::default": "Prints Hello World! to the logs"
+  },
+  "groupings": {
+  },
+  "conflicting": {
+  },
+  "replacing": {
+  },
+  "description": "Installs/Configures rjgeyer",
+  "providing": {
+  }
+}
